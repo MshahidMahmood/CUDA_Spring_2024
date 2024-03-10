@@ -1,4 +1,4 @@
-%%cu
+%%cuda
 #ifndef ACTIVATION_INC
 #define ACTIVATION_INC
 #pragma once
