@@ -1,4 +1,4 @@
-%%cu
+%%cuda
 #include <iostream> 
 #include <vector>
 #include "NeuralNetwork.h"
