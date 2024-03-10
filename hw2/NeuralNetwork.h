@@ -1,3 +1,4 @@
+%%cu
 #ifndef NEURAL_NET_INC
 #define NEURAL_NET_INC
 #pragma once
